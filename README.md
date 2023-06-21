@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furkanjp
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning .Net
 - 📫 demirtasfurkan911@gmail.com
 
 <!---
